@@ -40,7 +40,6 @@ This project uses the following dependencies:
 - `flutter_screenutil` - A flutter plugin for adapting screen and font size.Guaranteed to look good on different models.
 - `carousel_slider` - A carousel slider widget, support infinite scroll and custom child widget.
 
-
 ### Installing
 
 1. Run `flutter pub get` to install the required dependencies.
@@ -56,10 +55,6 @@ Contributions are welcome! If you encounter bugs or have suggestions, please [op
 3. Commit your changes: `git commit -am 'Add a new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Open a pull request.
-
-## Desing Credits
-an link to this Design -  [Al-Qur'an Design Mobile](https://dribbble.com/shots/14479644-Al-Qur-an-Mobile-App-Design)
-
 
 ## Acknowledgments
 
